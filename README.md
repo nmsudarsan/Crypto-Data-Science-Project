@@ -23,6 +23,3 @@ Downloadable file "crypto_competition.zip" includes the following files:
 train.csv: file to train your machine learning model.
 
 test.csv: file that can be used to test how well your model performs on unseen data. This is the file you're going to make predictions on with your trained model and create a submission file. Don't use this file unless you are doing the online challenge - not required for class
-
-solution_format.csv: example of the format that the submission file needs to be in to be properly scored. Don't use this file unless you are doing the online challenge - not required for class
-
